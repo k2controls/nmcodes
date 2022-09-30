@@ -1,0 +1,4 @@
+#kek note files
+k2*.txt
+#source files, private, etc.
+__*  
